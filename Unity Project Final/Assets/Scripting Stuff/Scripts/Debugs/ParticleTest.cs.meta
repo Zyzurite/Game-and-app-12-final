@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 38c01dcd7f1065d4ba4a4bf299f72258
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - buff: {fileID: 130080069153856452, guid: 17ed7866bfae5ad4ea9249823674f165, type: 3}
+  - debuff: {fileID: 3165090822349419579, guid: dcce0a1a27b52c94eb586e83bc550a4f, type: 3}
+  - level: {fileID: 6634057176454746935, guid: 2a8488dc4a7d6f5429ca15ddde4eea4e, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
